@@ -12,3 +12,4 @@ C:\Users\user\OneDrive - Kathmandu BernHardt College\Desktop\dotnet_project\obj\
 C:\Users\user\OneDrive - Kathmandu BernHardt College\Desktop\dotnet_project\obj\Debug\net9.0\dotnet_project.pdb
 C:\Users\user\OneDrive - Kathmandu BernHardt College\Desktop\dotnet_project\obj\Debug\net9.0\dotnet_project.genruntimeconfig.cache
 C:\Users\user\OneDrive - Kathmandu BernHardt College\Desktop\dotnet_project\obj\Debug\net9.0\ref\dotnet_project.dll
+C:\Users\user\OneDrive - Kathmandu BernHardt College\Desktop\dotnet_project\obj\Debug\net9.0\dotnet_project.sourcelink.json

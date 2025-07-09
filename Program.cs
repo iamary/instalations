@@ -1,16 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
 
-using System;
-
-namespace MyApplication
+namespace HelloWorld
 {
   class Program
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("enter your age:");
-      int age = Convert.ToInt32(Console.ReadLine());
-    Console.WriteLine(""+age); 
+      Console.WriteLine("Hello World!");    
     }
   }
 }
